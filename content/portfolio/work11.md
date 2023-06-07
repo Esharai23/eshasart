@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "/img/portfolio/Screen Shot 2023-02-21 at 4.57.25 PM.png"
+image = "img/portfolio/Screen Shot 2023-02-21 at 4.57.25 PM.png"
 showonlyimage = true
 date = "2016-11-05T20:23:59+05:30"
 title = "Item with image"

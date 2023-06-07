@@ -16,4 +16,4 @@ I'm a seventh grader who is very fond of art. I like painting because it makes m
 Seventh grader
 
 
-[1]: /img/Esha.png
+[1]: img/Esha.png

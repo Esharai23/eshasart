@@ -2,7 +2,7 @@
 date = "2022"
 title = "House On Hill"
 draft = false
-image = "/img/portfolio/Photo on 4-30-23 at 10.35 AM.jpg"
+image = "img/portfolio/Photo on 4-30-23 at 10.35 AM.jpg"
 showonlyimage = true
 weight = 1
 +++
